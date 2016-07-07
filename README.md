@@ -1,3 +1,3 @@
 # CollectionTableView
 
-Custom layout to have sticky sectioin headers
+Custom layout to support sticky sectioin headers in iOS 8
